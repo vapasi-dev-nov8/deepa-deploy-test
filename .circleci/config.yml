@@ -1,32 +1,3 @@
-  Skip to content
-    Search or jump to…
-    Pull requests
-    Issues
-    Marketplace
-    Explore
-
-    @deepadeepthy
-    vapasi-dev-nov8
-    /
-    cicd-app
-    Private
-    2
-    00
-    Code
-    Issues
-    Pull requests
-    Actions
-    Projects
-    Security
-    Insights
-    cicd-app/.circleci/config.yml
-    @amitkumarthoughtworks
-    amitkumarthoughtworks Added cicicleci configuration
-    Latest commit 9b3f75c 2 days ago
-    History
-    1 contributor
-    69 lines (65 sloc)  1.8 KB
-
   version: 2.1
 
   workflows:
